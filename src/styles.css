@@ -11,7 +11,7 @@
 
 .heading {
   padding: 2rem;
-  background-color: #1e293b ;
+  background-color: #1e293b;
   color: #f1f5f9;
 }
 
@@ -19,7 +19,7 @@
   padding-bottom: 1rem;
 }
 
-button{
+button {
   margin-right: 1rem;
   font-size: 14px;
   background-color: #e2e8f0;
@@ -30,38 +30,34 @@ button{
   border-color: white;
 }
 
-.fiction-list{
+.fiction-list {
   min-height: 70vh;
   display: flex;
   flex-direction: row;
   justify-content: center;
 }
-.content-books{
+.content-books {
   padding: 2rem;
   display: inline-block;
   margin-top: 1rem;
 }
 
-.content-books img{
+.content-books img {
   height: 50vh;
 }
 
-
-.content-books li{
-  listStyle: "none",
-  width: "50%",
-  margin: "1rem"
+.content-books li {
+  liststyle: "none";
+  width: "50%";
+  margin: "1rem";
 }
 
-footer{
-  background-color:  #1e293b;
+footer {
+  background-color: #1e293b;
   height: 5rem;
   color: #f1f5f9;
- 
 }
 
-.footer-content{
- padding-top: 2rem;
- 
+.footer-content {
+  padding-top: 2rem;
 }
-
